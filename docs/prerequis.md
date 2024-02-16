@@ -61,6 +61,4 @@ Pour plus de détails sur l'apprentissage de WordPress et de PHP, consultez la [
 
 Une fois que vous avez suivi ces étapes, vous aurez tous les prérequis en place pour commencer à créer votre plugin WordPress avec Git. Si vous rencontrez des problèmes lors de la configuration de votre environnement de développement, n'hésitez pas à consulter la documentation officielle ou à rechercher des tutoriels en ligne pour obtenir de l'aide.
 
-Voici une erreur !!!
-
 [Passer à la prochaine section : Étapes de création](etapes.md)
