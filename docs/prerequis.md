@@ -63,4 +63,6 @@ Une fois que vous avez suivi ces étapes, vous aurez tous les prérequis en plac
 
 Voici une erreur !!!
 
+Voici ma deuxième erreur !!!
+
 [Passer à la prochaine section : Étapes de création](etapes.md)
