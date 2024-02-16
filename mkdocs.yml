@@ -1,0 +1,14 @@
+site_name: Guide de création de Plugin WordPress avec Git
+site_description: Documentation pour créer un plugin WordPress en utilisant Git
+theme:
+  name: material
+nav:
+  - Accueil: index.md
+  - Introduction: introduction.md
+  - Prérequis: prerequis.md
+  - Étapes de création: etapes.md
+  - Conclusion: conclusion.md
+extra_css:
+  - assets/custom.css
+markdown_extensions:
+  - admonition
