@@ -26,6 +26,5 @@ N'hésitez pas à explorer et expérimenter avec ce dépôt. Si vous avez des qu
 Si vous débutez avec Git et GitHub, voici quelques ressources qui pourraient vous être utiles :
 - [Documentation Git](https://git-scm.com/doc)
 - [Guide GitHub](https://guides.github.com/)
-- [GitHub Learning Lab](https://lab.github.com/)
 
 Merci de votre intérêt pour ce dépôt. Amusez-vous à explorer le monde de Git et GitHub !
